@@ -1,56 +1,13 @@
 # llm-study
 人工智能技术点
-  人工智能技术点	内容	资料整理
-数学基础	"线性代数
-微积分
-概率论与梳理统计
-最优化理论
-信息论"	
-python体系	"1、python基础
-2、框架：tensorFlow、PyTorch、numpy、pandas、
-Scipy、Matplotlib、Scikit-Learn等
-3、CUDA GPU加速原理
-4、pytorch CUDA实际应用案例
-5、web框架：Flask、Django"	
-NLP	自然语言理解、自然语言解释、Word2Vec、分词等	
-机器学习	监督学习、无监督学习、半监督学习、自监督学习	
-深度学习	"卷积神经网络（CNN）、循环神经网络（RNN）、
-LSTM（长短期记忆）、生成对抗网络（GAN等等"	
-强化学习	Q-Learning、深度Q网络（DQN、蒙特卡洛树搜索（MCTS等等	
-"大模型原理、开发与
-训练实战"	"1、大模型原理、理论&关键论文
-2、大模型架构、模型的发展
-3、模型开源代码解析或手写一个简版模型等
-4、大模型开发、预训练、测试等
-5、推理（COT/T0T），TensorRT、Triton、tf-serving"	
-transformer框架	BERT、GPT3	
-bert	基于 Transformer 的预训练语言模型，双向训练、预训练+微调	
-prompt	角色扮演型、问答型、总结型等等	
-springAI	整体架构、组件等，如NL2SQL	
-RAG	向量数据库、分词、检索召回等	
-Agent（智能体）	AutoGen、规划、行动、记忆，react、plan_excuter等	
-A2A与MCP	通信协议标准、安全与权限控制等	
-functioncall	机制和原理	
-langchain/langchain4J	整体架构、组件等	
-langgraph/langgraph4J	整体架构、组件等	
-llamaindex	专注数据接入与 RAG 优化案例	
-本地部署	Ollama、LM Studio、硬件要求、企业级部署等	
-微调	"需要包含pipeline以及LORA，QLORA，VLLM
-DPO等核心的技术手、SFT微调、RL微调
-Unsloth：高效微调框架
-vLLM：模型调度框架，用于验证微调后模型效果
-EvalScope：模型评测框架，用于对比微调前后模型性能
-wandb：模型训练数据在线记录工具，用于保存模型训练
-过程中损失值的变化情况"	
-蒸馏	标准知识蒸馏、特征蒸馏	
-AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="image" src="https://github.com/user-attachments/assets/7e7c3f87-65dc-467e-9144-f24cef3855a7" />
+ 	<img width="717" height="688" alt="image" src="https://github.com/user-attachments/assets/7e7c3f87-65dc-467e-9144-f24cef3855a7" />
 
 　
-快速读懂开源
+#快速读懂开源
 1. 快速读懂开源代码deepwiki：可以将 GitHub 链接中的“github.com”替换为“deepwiki.com
 2. 基础算法：GitHub地址 github.com/algorithm-visualizer/algorithm-visualizer
 
-前置基础
+#前置基础
 1. 人工智能数学基础:
 ● 代码： https://github.com/bob329/aimath  
 ● 书籍：https://github.com/datawhalechina/math-for-ai?tab=readme-ov-file
@@ -76,7 +33,7 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 ●   GitHub：https://github.com/huggingface/transformers
 ●   文档：https://huggingface.co/docs/transformers
 
-一、大模型学习
+#一、大模型学习
   词表库、位置向量库、分词、词向量、
 1. 大模型从硬件到软件学习：https://github.com/Infrasys-AI/AIInfra/tree/main?tab=readme-ov-file
 2. openai-cookbook：https://cookbook.openai.com/topic/agents
@@ -91,7 +48,7 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 11. Smol培训手册，构建世界级LLM的秘诀-Hugging Face：https://uone.alibaba-inc.com/uknow/reports/130980?spm=25c880c9.37285d8b.0.0.498db97baVkUOc&utm_source=aidate
 12. 0到1写大模型：https://www.youtube.com/watch?v=F53Tt_vNLdg   https://github.com/rasbt/LLMs-from-scratch
 13. 
-二、propmt-Engineering
+#二、propmt-Engineering
 1. Prompt-Engineering-Guide：https://github.com/dair-ai/Prompt-Engineering-Guide
 2. prompt指导中文版本：https://www.promptingguide.ai/zh
 3. propmt：https://www.promptingguide.ai/introduction
@@ -105,7 +62,7 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 11. prompt-eng ：https://github.com/anthropics/prompt-eng-interactive-tutorial
 
 
-三、大模型应用开发框架
+#三、大模型应用开发框架
 1. spring-ai-alibaba：https://java2ai.com/docs/1.0.0.2/spring-ai-sourcecode-explained/chapter-1-chat-first-experience/?spm=5176.29160081.0.0.2856aa5c4M1mJa#chat%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B
 2. https://github.com/alibaba/spring-ai-alibaba/blob/main/README-zh.md
 3. spring-ai学习资料：https://www.yuque.com/tulingzhouyu/db22bv
@@ -114,7 +71,7 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 6. langgrap：https://www.langchain.com/langgraph；https://langchain-ai.github.io/langgraph/?ajs_aid=07e657cd-56dc-42ea-a4c1-26d59cb5ec39  ；https://www.aidoczh.com/langgraph/
 7. 
 
-四、agent：
+#四、agent：
 1. agent模式：https://www.anthropic.com/research/building-effective-agents
 2. plan—and-excute：https://langchain-ai.github.io/langgraph/tutorials/plan-and-execute/plan-and-execute/
 3. ReAct Agent：https://zhuanlan.zhihu.com/p/1931154686532105460
@@ -126,7 +83,7 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 9. ai-agents-for-beginners：https://github.com/microsoft/ai-agents-for-beginners
 10. agent国外相关资料：https://github.com/VanGongwanxiaowan/Agent
 
-五、rag：
+#五、rag：
 
 1.  理论学习：https://arxiv.org/abs/2005.11401
 2. langchain 官方 rag 示例：https://langchain.readthedocs.io/
@@ -136,7 +93,7 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 6. RAG参考库：https://github.com/HKUDS/RAG-Anything
 7. 开源（RAGflow）：https://github.com/infiniflow/ragflow
 
-六、mcp：
+#六、mcp：
 
 1. mcp官网：https://modelcontextprotocol.io/docs/getting-started/intro ；
 2. aws：https://github.com/awslabs/mcp/tree/main
@@ -152,7 +109,7 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 
  开发调试工具：cherry stutio
 
-七、AI coding
+#七、AI coding
 1. copilot：https://qoder.com/blog  ；https://www.coze.cn/studio?utm_campaign=6353598&utm_content=home&utm_id=0&utm_medium=sem&utm_source=baidu_pz&utm_source_platform=pc&utm_term=coze_baidu_pz_pc
 2. AI编码：https://docs.qoder.com/troubleshooting/mcp-common-issue
 3. agent-rules：https://github.com/Lordog/dive-into-llms/tree/main
@@ -165,13 +122,14 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 ● https://www.bilibili.com/video/BV1aEHCz1EgZ/?spm_id_from=333.337.search-card.all.click&vd_source=e551fb2a5e99d67f6279c11ce67d51c5
 
 
-八、A2A
+#八、A2A
 1. A2A：https://www.a2aprotocol.net/  ；
 2. google a2a：https://github.com/a2aproject/A2A
 3. 
 
-九、微调
-
+#九、微调
+<img width="2062" height="1306" alt="image" src="https://github.com/user-attachments/assets/d37dd388-cd5d-4ea1-bb05-393b2a5a77ad" />
+<img width="946" height="368" alt="image" src="https://github.com/user-attachments/assets/37b51168-391e-4371-b636-6cd9b477d5f9" />
 
 
 1. 大模型微调：https://github.com/Lordog/dive-into-llms/tree/main
@@ -182,11 +140,11 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 
 
 
-十、workflow
+#十、workflow
 1. n8n：https://github.com/Zie619/n8n-workflows
 2. 
 
-十一、大模型综合应用
+#十一、大模型综合应用
 1. 智能助手开源项目（好，数据分析）：https://github.com/apconw/sanic-web?tab=readme-ov-file  
 2. 大模型案例库：https://github.com/Lordog/dive-into-llms/tree/main
 3. 大模型应用案例库：https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file
@@ -197,7 +155,7 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 8. 500-AI-Agents-Projects：https://github.com/ashishpatel26/500-AI-Agents-Projects
 9. 
 
-十二、配套工具
+#十二、配套工具
 1. 天气app-key：https://www.weatherapi.com/docs/  ;api-key:800af0bd600a4634b31133711251111
 2. 搜索引擎代理：https://serpapi.com/manage-api-key ，apikey：35d6362071abfaa8f427ddbfcce78b24fd869dbff8f9903d471464e8f806976f
 3. dashscope:api-key: sk-207b9e183ee3415796cb7671db57a72b
@@ -209,16 +167,19 @@ AI coding	copilot，clause code，qoder等	<img width="717" height="688" alt="im
 7. google -colab（浏览器中编写和执行 Python 代码）：https://colab.research.google.com/
 8. 阿里云DSW（类似：google -colab）：https://dsw-cn-hangzhou.data.aliyun.com/
 9. 阿里云魔塔（免费）：https://modelscope.cn/my/mynotebook/preset
-附录
+#附录
 大模型体系
+<img width="2399" height="1562" alt="image" src="https://github.com/user-attachments/assets/ca0bda64-a506-47c5-a4c4-a9ca4cfc2843" />
 
 
 取数架构
+<img width="970" height="534" alt="image" src="https://github.com/user-attachments/assets/c79ca248-dcec-4214-9241-bbb623a3e42b" />
+
 
 工程公共架构
-
-
-
+<img width="1978" height="1134" alt="image" src="https://github.com/user-attachments/assets/4c760406-a392-4091-9135-2fcc941753d5" />
+<img width="2918" height="1630" alt="image" src="https://github.com/user-attachments/assets/531d9290-b36b-47e3-9ba1-e5d28f0f3c2b" />
+<img width="1226" height="836" alt="image" src="https://github.com/user-attachments/assets/0441ce06-db79-4b98-9e7a-bfeddbd4b147" />
 
 
 
