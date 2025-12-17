@@ -1,13 +1,14 @@
 # llm-study
 人工智能技术点
- 	<img width="717" height="688" alt="image" src="https://github.com/user-attachments/assets/7e7c3f87-65dc-467e-9144-f24cef3855a7" />
+
+	<img width="717" height="688" alt="image" src="https://github.com/user-attachments/assets/7e7c3f87-65dc-467e-9144-f24cef3855a7" />
 
 　
-#快速读懂开源
+# 快速读懂开源
 1. 快速读懂开源代码deepwiki：可以将 GitHub 链接中的“github.com”替换为“deepwiki.com
 2. 基础算法：GitHub地址 github.com/algorithm-visualizer/algorithm-visualizer
 
-#前置基础
+# 前置基础
 1. 人工智能数学基础:
 ● 代码： https://github.com/bob329/aimath  
 ● 书籍：https://github.com/datawhalechina/math-for-ai?tab=readme-ov-file
@@ -33,7 +34,7 @@
 ●   GitHub：https://github.com/huggingface/transformers
 ●   文档：https://huggingface.co/docs/transformers
 
-#一、大模型学习
+# 一、大模型学习
   词表库、位置向量库、分词、词向量、
 1. 大模型从硬件到软件学习：https://github.com/Infrasys-AI/AIInfra/tree/main?tab=readme-ov-file
 2. openai-cookbook：https://cookbook.openai.com/topic/agents
@@ -48,7 +49,7 @@
 11. Smol培训手册，构建世界级LLM的秘诀-Hugging Face：https://uone.alibaba-inc.com/uknow/reports/130980?spm=25c880c9.37285d8b.0.0.498db97baVkUOc&utm_source=aidate
 12. 0到1写大模型：https://www.youtube.com/watch?v=F53Tt_vNLdg   https://github.com/rasbt/LLMs-from-scratch
 13. 
-#二、propmt-Engineering
+# 二、propmt-Engineering
 1. Prompt-Engineering-Guide：https://github.com/dair-ai/Prompt-Engineering-Guide
 2. prompt指导中文版本：https://www.promptingguide.ai/zh
 3. propmt：https://www.promptingguide.ai/introduction
@@ -62,7 +63,7 @@
 11. prompt-eng ：https://github.com/anthropics/prompt-eng-interactive-tutorial
 
 
-#三、大模型应用开发框架
+# 三、大模型应用开发框架
 1. spring-ai-alibaba：https://java2ai.com/docs/1.0.0.2/spring-ai-sourcecode-explained/chapter-1-chat-first-experience/?spm=5176.29160081.0.0.2856aa5c4M1mJa#chat%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B
 2. https://github.com/alibaba/spring-ai-alibaba/blob/main/README-zh.md
 3. spring-ai学习资料：https://www.yuque.com/tulingzhouyu/db22bv
@@ -71,7 +72,7 @@
 6. langgrap：https://www.langchain.com/langgraph；https://langchain-ai.github.io/langgraph/?ajs_aid=07e657cd-56dc-42ea-a4c1-26d59cb5ec39  ；https://www.aidoczh.com/langgraph/
 7. 
 
-#四、agent：
+# 四、agent：
 1. agent模式：https://www.anthropic.com/research/building-effective-agents
 2. plan—and-excute：https://langchain-ai.github.io/langgraph/tutorials/plan-and-execute/plan-and-execute/
 3. ReAct Agent：https://zhuanlan.zhihu.com/p/1931154686532105460
@@ -83,7 +84,7 @@
 9. ai-agents-for-beginners：https://github.com/microsoft/ai-agents-for-beginners
 10. agent国外相关资料：https://github.com/VanGongwanxiaowan/Agent
 
-#五、rag：
+# 五、rag：
 
 1.  理论学习：https://arxiv.org/abs/2005.11401
 2. langchain 官方 rag 示例：https://langchain.readthedocs.io/
@@ -93,7 +94,7 @@
 6. RAG参考库：https://github.com/HKUDS/RAG-Anything
 7. 开源（RAGflow）：https://github.com/infiniflow/ragflow
 
-#六、mcp：
+# 六、mcp：
 
 1. mcp官网：https://modelcontextprotocol.io/docs/getting-started/intro ；
 2. aws：https://github.com/awslabs/mcp/tree/main
@@ -109,7 +110,7 @@
 
  开发调试工具：cherry stutio
 
-#七、AI coding
+# 七、AI coding
 1. copilot：https://qoder.com/blog  ；https://www.coze.cn/studio?utm_campaign=6353598&utm_content=home&utm_id=0&utm_medium=sem&utm_source=baidu_pz&utm_source_platform=pc&utm_term=coze_baidu_pz_pc
 2. AI编码：https://docs.qoder.com/troubleshooting/mcp-common-issue
 3. agent-rules：https://github.com/Lordog/dive-into-llms/tree/main
@@ -122,12 +123,12 @@
 ● https://www.bilibili.com/video/BV1aEHCz1EgZ/?spm_id_from=333.337.search-card.all.click&vd_source=e551fb2a5e99d67f6279c11ce67d51c5
 
 
-#八、A2A
+# 八、A2A
 1. A2A：https://www.a2aprotocol.net/  ；
 2. google a2a：https://github.com/a2aproject/A2A
 3. 
 
-#九、微调
+# 九、微调
 <img width="2062" height="1306" alt="image" src="https://github.com/user-attachments/assets/d37dd388-cd5d-4ea1-bb05-393b2a5a77ad" />
 <img width="946" height="368" alt="image" src="https://github.com/user-attachments/assets/37b51168-391e-4371-b636-6cd9b477d5f9" />
 
@@ -140,11 +141,11 @@
 
 
 
-#十、workflow
+# 十、workflow
 1. n8n：https://github.com/Zie619/n8n-workflows
 2. 
 
-#十一、大模型综合应用
+# 十一、大模型综合应用
 1. 智能助手开源项目（好，数据分析）：https://github.com/apconw/sanic-web?tab=readme-ov-file  
 2. 大模型案例库：https://github.com/Lordog/dive-into-llms/tree/main
 3. 大模型应用案例库：https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file
@@ -155,7 +156,7 @@
 8. 500-AI-Agents-Projects：https://github.com/ashishpatel26/500-AI-Agents-Projects
 9. 
 
-#十二、配套工具
+# 十二、配套工具
 1. 天气app-key：https://www.weatherapi.com/docs/  ;api-key:800af0bd600a4634b31133711251111
 2. 搜索引擎代理：https://serpapi.com/manage-api-key ，apikey：35d6362071abfaa8f427ddbfcce78b24fd869dbff8f9903d471464e8f806976f
 3. dashscope:api-key: sk-207b9e183ee3415796cb7671db57a72b
@@ -167,7 +168,7 @@
 7. google -colab（浏览器中编写和执行 Python 代码）：https://colab.research.google.com/
 8. 阿里云DSW（类似：google -colab）：https://dsw-cn-hangzhou.data.aliyun.com/
 9. 阿里云魔塔（免费）：https://modelscope.cn/my/mynotebook/preset
-#附录
+# 附录
 大模型体系
 <img width="2399" height="1562" alt="image" src="https://github.com/user-attachments/assets/ca0bda64-a506-47c5-a4c4-a9ca4cfc2843" />
 
