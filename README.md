@@ -123,6 +123,7 @@
 ●     https://github.com/github/spec-kit/blob/main/templates/commands/plan.md
 ● https://www.bilibili.com/video/BV1aEHCz1EgZ/?spm_id_from=333.337.search-card.all.click&vd_source=e551fb2a5e99d67f6279c11ce67d51c5
 6. cloud code skills：https://code.claude.com/docs/en/skills
+   <img width="1042" height="544" alt="image" src="https://github.com/user-attachments/assets/bae9d465-9599-4124-8257-480e1d5f5987" />
 
 
 # 八、A2A
