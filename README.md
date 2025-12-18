@@ -122,7 +122,7 @@
 ● https://zhuanlan.zhihu.com/p/1961118042852401872  https://www.bilibili.com/video/BV1aEHCz1EgZ/?spm_id_from=333.337.search-card.all.click&vd_source=e551fb2a5e99d67f6279c11ce67d51c5
 ●     https://github.com/github/spec-kit/blob/main/templates/commands/plan.md
 ● https://www.bilibili.com/video/BV1aEHCz1EgZ/?spm_id_from=333.337.search-card.all.click&vd_source=e551fb2a5e99d67f6279c11ce67d51c5
-●  cloud code skills：https://code.claude.com/docs/en/skills
+6. cloud code skills：https://code.claude.com/docs/en/skills
 
 
 # 八、A2A
