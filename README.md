@@ -155,7 +155,7 @@
 6. 组建AI虚拟团队的开源工具：https://github.com/crewAIInc/crewAI
 7. 智能助手合集：https://github.com/Shubhamsaboo/awesome-llm-apps
 8. 500-AI-Agents-Projects：https://github.com/ashishpatel26/500-AI-Agents-Projects
-9. 
+9. 一个人即使一家软件公司：https://github.com/FoundationAgents/MetaGPT/blob/main/docs/README_CN.md
 
 # 十二、配套工具
 1. 天气app-key：https://www.weatherapi.com/docs/  ;api-key:800af0bd600a4634b31133711251111
