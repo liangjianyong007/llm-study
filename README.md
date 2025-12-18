@@ -38,18 +38,19 @@
 # 一、大模型学习
   词表库、位置向量库、分词、词向量、
 1. 大模型从硬件到软件学习：https://github.com/Infrasys-AI/AIInfra/tree/main?tab=readme-ov-file
-2. openai-cookbook：https://cookbook.openai.com/topic/agents
-3. 动手学大模型-大模型全流程开发（课程）：https://github.com/Lordog/dive-into-llms/tree/main
-4. 动手学习大模型（课程）：https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN?tab=readme-ov-file
-5. 大语言模型基础：https://github.com/ZJU-LLMs/Foundations-of-LLMs/blob/main/readme.md
-6. 0到1手写大模型：https://waylandzhang.github.io/en/introduction.html   https://github.com/bbruceyuan/LLMs-Zero-to-Hero  https://github.com/REXWindW/my_llm/blob/main/readme.md
-7. 大模型推理：https://github.com/Infrasys-AI/AIInfra/tree/main
-8. 大模型预训练与微调：https://github.com/datawhalechina/self-llm。医疗大模型型：https://github.com/shibing624/MedicalGPT/blob/main/README.md
-9. 预训练、微调、强化学习:https://i232t6gteo.feishu.cn/docx/NUEDdyv12op2LKxQKjMcHJUbnNd
-10. 端到端训练大模型实战经验，涵盖预训练、后训练及基础设施搭建：https://huggingface.co/spaces/HuggingFaceTB/smol-playbook-toc
-11. Smol培训手册，构建世界级LLM的秘诀-Hugging Face：https://uone.alibaba-inc.com/uknow/reports/130980?spm=25c880c9.37285d8b.0.0.498db97baVkUOc&utm_source=aidate
-12. 0到1写大模型：https://www.youtube.com/watch?v=F53Tt_vNLdg   https://github.com/rasbt/LLMs-from-scratch
-13. 
+2. 大模型从硬件到软件学习：https://infrasys-ai.github.io/aiinfra-docs/
+3. openai-cookbook：https://cookbook.openai.com/topic/agents
+4. 动手学大模型-大模型全流程开发（课程）：https://github.com/Lordog/dive-into-llms/tree/main
+5. 动手学习大模型（课程）：https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN?tab=readme-ov-file
+6. 大语言模型基础：https://github.com/ZJU-LLMs/Foundations-of-LLMs/blob/main/readme.md
+7. 0到1手写大模型：https://waylandzhang.github.io/en/introduction.html   https://github.com/bbruceyuan/LLMs-Zero-to-Hero  https://github.com/REXWindW/my_llm/blob/main/readme.md
+8. 大模型推理：https://github.com/Infrasys-AI/AIInfra/tree/main
+9. 大模型预训练与微调：https://github.com/datawhalechina/self-llm。医疗大模型型：https://github.com/shibing624/MedicalGPT/blob/main/README.md
+10. 预训练、微调、强化学习:https://i232t6gteo.feishu.cn/docx/NUEDdyv12op2LKxQKjMcHJUbnNd
+11. 端到端训练大模型实战经验，涵盖预训练、后训练及基础设施搭建：https://huggingface.co/spaces/HuggingFaceTB/smol-playbook-toc
+12. Smol培训手册，构建世界级LLM的秘诀-Hugging Face：https://uone.alibaba-inc.com/uknow/reports/130980?spm=25c880c9.37285d8b.0.0.498db97baVkUOc&utm_source=aidate
+13. 0到1写大模型：https://www.youtube.com/watch?v=F53Tt_vNLdg   https://github.com/rasbt/LLMs-from-scratch
+14. 
 # 二、propmt-Engineering
 1. Prompt-Engineering-Guide：https://github.com/dair-ai/Prompt-Engineering-Guide
 2. prompt指导中文版本：https://www.promptingguide.ai/zh
