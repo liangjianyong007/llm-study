@@ -71,7 +71,7 @@
 3. spring-ai学习资料：https://www.yuque.com/tulingzhouyu/db22bv
 4. langchain4j：https://docs.langchain4j.dev/category/tutorials
 5. spring-ai：https://docs.spring.io/spring-ai/reference/
-6. langgrap：https://www.langchain.com/langgraph；https://langchain-ai.github.io/langgraph/?ajs_aid=07e657cd-56dc-42ea-a4c1-26d59cb5ec39  ；https://www.aidoczh.com/langgraph/
+6. langgrap：https://www.langchain.com/langgraph；https://langchain-ai.github.io/langgraph/?ajs_aid=07e657cd-56dc-42ea-a4c1-26d59cb5ec39  ；https://www.aidoczh.com/langgraph/  ;langgraph4j/langgraph：https://github.com/langgraph4j/langgraph4j
 7. 
 
 # 四、agent：
@@ -85,7 +85,7 @@
 8. agent论文：https://lilianweng.github.io/posts/2023-06-23-agent/#agent-system-overview
 9. ai-agents-for-beginners：https://github.com/microsoft/ai-agents-for-beginners
 10. agent国外相关资料：https://github.com/VanGongwanxiaowan/Agent
-11. langgraph4j/langgraph：https://github.com/langgraph4j/langgraph4j
+
 
 # 五、rag：
 
