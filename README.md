@@ -31,7 +31,7 @@
 5. 阿里云机器学习：https://www.aliyun.com/resources?userCode=okjhlpr5
 6. transformer：https://github.com/huggingface/transformers/blob/main/i18n/README_zh-hans.md
 7. transformer（pytouch）：https://github.com/hyunwoongko/transformer
-8. ai基础体系学习：https://ailearning.apachecn.org/
+8. ai基础体系学习：https://github.com/apachecn/ailearning  https://ailearning.apachecn.org/
 9. transformers：
 ●   GitHub：https://github.com/huggingface/transformers
 ●   文档：https://huggingface.co/docs/transformers
