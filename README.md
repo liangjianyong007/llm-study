@@ -85,6 +85,7 @@
 8. agent论文：https://lilianweng.github.io/posts/2023-06-23-agent/#agent-system-overview
 9. ai-agents-for-beginners：https://github.com/microsoft/ai-agents-for-beginners
 10. agent国外相关资料：https://github.com/VanGongwanxiaowan/Agent
+11. langgraph4j/langgraph：https://github.com/langgraph4j/langgraph4j
 
 # 五、rag：
 
