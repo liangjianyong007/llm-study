@@ -1,7 +1,7 @@
-# llm-study
+<img width="717" height="716" alt="image" src="https://github.com/user-attachments/assets/b529b629-b998-4f0a-b745-b338fa3e06c4" /># llm-study
 ## 人工智能技术点
 
-<img width="717" height="688" alt="image" src="https://github.com/user-attachments/assets/68e441fb-2a7f-4b0e-bae7-026627343af0" />
+<img width="717" height="716" alt="image" src="https://github.com/user-attachments/assets/fc4a9642-4a2a-443e-bdd4-a052d71f5ffd" />
 
 
 　
