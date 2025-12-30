@@ -24,6 +24,8 @@
 6. matplotlib：https://github.com/rougier/matplotlib-tutorial
 7. scikit-learn：https://github.com/jakevdp/sklearn_tutorial
 零、机器学习&深度学习
+<img width="964" height="410" alt="image" src="https://github.com/user-attachments/assets/19bee1b8-57ae-47c5-89ba-95f6b7a22e65" />
+
 1. 幂次：https://mici.jiqishidai.com/site/vod?course_id=5&fir_floor=2&sec_floor=0&course_tp=necessary&r=7147.428788022649
 2. 李沐体系课程：https://github.com/mli
 3. 李宏毅：https://github.com/datawhalechina/leedl-tutorial
