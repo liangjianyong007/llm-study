@@ -31,6 +31,7 @@
 <img width="1700" height="1150" alt="image" src="https://github.com/user-attachments/assets/f08e5865-2291-4d50-954f-27b53774fbd2" />
 <img width="1628" height="870" alt="image" src="https://github.com/user-attachments/assets/014492bf-51ff-4c13-8d66-2a7da1e833ee" />
 <img width="1698" height="1084" alt="image" src="https://github.com/user-attachments/assets/9d6cdae1-b4ba-40cb-a2d1-4a92e9ec7c3d" />
+<img width="1620" height="1184" alt="image" src="https://github.com/user-attachments/assets/824fb464-e506-4818-b600-15b13170aded" />
 
 
 1. 幂次：https://mici.jiqishidai.com/site/vod?course_id=5&fir_floor=2&sec_floor=0&course_tp=necessary&r=7147.428788022649
