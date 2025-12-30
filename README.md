@@ -25,11 +25,12 @@
 7. scikit-learn：https://github.com/jakevdp/sklearn_tutorial
 零、机器学习&深度学习
 <img width="1752" height="938" alt="image" src="https://github.com/user-attachments/assets/c29c31d0-bc18-48c4-b4a5-5fb564021c85" />
-<img width="1628" height="870" alt="image" src="https://github.com/user-attachments/assets/014492bf-51ff-4c13-8d66-2a7da1e833ee" />
 <img width="1622" height="1100" alt="image" src="https://github.com/user-attachments/assets/aeb30d18-79d0-4daa-b32a-443b12591602" />
 <img width="1728" height="1206" alt="image" src="https://github.com/user-attachments/assets/ae19b996-2207-4bdc-b5ea-33f3eacf7803" />
 <img width="1638" height="962" alt="image" src="https://github.com/user-attachments/assets/bfa713d3-e84a-4a2c-bf7f-84c55fcaf266" />
 <img width="1700" height="1150" alt="image" src="https://github.com/user-attachments/assets/f08e5865-2291-4d50-954f-27b53774fbd2" />
+<img width="1628" height="870" alt="image" src="https://github.com/user-attachments/assets/014492bf-51ff-4c13-8d66-2a7da1e833ee" />
+<img width="1698" height="1084" alt="image" src="https://github.com/user-attachments/assets/9d6cdae1-b4ba-40cb-a2d1-4a92e9ec7c3d" />
 
 
 1. 幂次：https://mici.jiqishidai.com/site/vod?course_id=5&fir_floor=2&sec_floor=0&course_tp=necessary&r=7147.428788022649
