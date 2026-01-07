@@ -141,6 +141,9 @@
 ● https://www.bilibili.com/video/BV1aEHCz1EgZ/?spm_id_from=333.337.search-card.all.click&vd_source=e551fb2a5e99d67f6279c11ce67d51c5
 6. cloud code skills：https://code.claude.com/docs/en/skills
    <img width="1042" height="544" alt="image" src="https://github.com/user-attachments/assets/bae9d465-9599-4124-8257-480e1d5f5987" />
+<img width="1840" height="1094" alt="image" src="https://github.com/user-attachments/assets/e7cdc8ab-86a5-44ab-9d6a-9ddc8743608c" />
+<img width="1872" height="1210" alt="image" src="https://github.com/user-attachments/assets/e37d636e-e74a-4c9e-8def-264fe6810dab" />
+
 
 
 # 八、A2A
