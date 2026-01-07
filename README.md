@@ -98,6 +98,8 @@
 8. agent论文：https://lilianweng.github.io/posts/2023-06-23-agent/#agent-system-overview
 9. ai-agents-for-beginners：https://github.com/microsoft/ai-agents-for-beginners
 10. agent国外相关资料：https://github.com/VanGongwanxiaowan/Agent
+11. agent设计（google）：https://www.marktechpost.com/category/editors-pick/ai-agents/
+12. Google 2025最新 Agent 白皮书：https://zhuanlan.zhihu.com/p/1975159038007349305
 
 
 # 五、rag：
