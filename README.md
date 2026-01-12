@@ -100,6 +100,7 @@
 10. agent国外相关资料：https://github.com/VanGongwanxiaowan/Agent
 11. agent设计（google）：https://www.marktechpost.com/category/editors-pick/ai-agents/
 12. Google 2025最新 Agent 白皮书：https://zhuanlan.zhihu.com/p/1975159038007349305
+13. 智能体白皮书：https://arthurchiao.art/blog/ai-agent-white-paper-zh/
 
 
 # 五、rag：
