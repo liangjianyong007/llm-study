@@ -11,5 +11,11 @@
 <img width="2052" height="1564" alt="image" src="https://github.com/user-attachments/assets/bbf59136-e4bf-4683-b063-d46db12edb98" />
 <img width="2362" height="1548" alt="image" src="https://github.com/user-attachments/assets/b6b7b793-1ae0-4d5f-9919-3a678a434141" />
 ## 多头注意力机制
-![Uploading image.png…]()
+ <img width="2314" height="1730" alt="image" src="https://github.com/user-attachments/assets/c4050a25-895b-40fa-9bc8-2e7da0114be9" />
+<img width="2240" height="1580" alt="image" src="https://github.com/user-attachments/assets/953d6629-dee8-465f-95c3-adba1970e1f3" />
+<img width="2178" height="1420" alt="image" src="https://github.com/user-attachments/assets/0a2c8f94-2835-474b-964a-f1d2aaa8bfc5" />
+<img width="2276" height="1520" alt="image" src="https://github.com/user-attachments/assets/7164a187-7acd-4985-9dc3-ecc7e5393f35" />
+<img width="2274" height="1482" alt="image" src="https://github.com/user-attachments/assets/f51f465c-5421-4fc8-bc4d-f00fab502e0b" />
+
+
 
