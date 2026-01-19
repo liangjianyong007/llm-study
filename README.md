@@ -220,3 +220,37 @@
 # 大模型相关论文
 1、nature ： https://www.nature.com/
 2、arxiv ： https://arxiv.org/abs/2011.04006
+3、Science（AAAS）：https://www.science.org/
+4、ACM（期刊与会议入口）：https://www.acm.org/ ；论文库：https://dl.acm.org/
+5、Google Scholar：https://scholar.google.com/
+## 计算机 / AI
+### 1) 顶会论文发布/检索入口
+NeurIPS（神经信息处理）：https://neurips.cc/
+ICML（机器学习）：https://icml.cc/
+ICLR（表征学习）：https://iclr.cc/
+CVPR（计算机视觉）：https://cvpr.thecvf.com/
+ICCV：https://iccv.thecvf.com/
+ECCV：https://eccv.ecva.net/
+ACL（计算语言学）：https://www.aclweb.org/
+EMNLP：https://2025.emnlp.org/ （每年域名会变，可从 ACL 入口跳转）
+NAACL：https://naacl.org/
+KDD（数据挖掘）：https://kdd.org/
+WWW / The Web Conference：https://www2026.thewebconf.org/（每年域名会变）
+AAAI：https://aaai.org/
+IJCAI：https://www.ijcai.org/
+SIGIR（信息检索）：https://sigir.org/
+IEEE Xplore（很多 IEEE 会议/期刊全文库）：https://ieeexplore.ieee.org/
+ACM DL（很多 ACM 会议/期刊全文库）：https://dl.acm.org/
+ACL Anthology（NLP 论文集中库）：https://aclanthology.org/
+OpenReview（ICLR 等常用评审/公开版本平台）：https://openreview.net/
+arXiv（预印本）：https://arxiv.org/
+### 2) 顶级期刊（AI/ML/CS 常见）
+JMLR：https://www.jmlr.org/
+Machine Learning（Springer）：https://link.springer.com/journal/10994
+IEEE TPAMI：https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+IJCV：https://link.springer.com/journal/11263
+IEEE TNNLS：https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+IEEE TIP：https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
+ACM Computing Surveys：https://dl.acm.org/journal/csur
+Nature Machine Intelligence：https://www.nature.com/natmachintell/
+Science Robotics：https://www.science.org/journal/scirobotics
