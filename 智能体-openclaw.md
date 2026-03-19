@@ -1,4 +1,6 @@
 # openclaw
+  <img width="1414" height="738" alt="image" src="https://github.com/user-attachments/assets/e515ae98-8535-468f-8bab-f782016791d7" />
+
  ## 交互过程
  <img width="1798" height="830" alt="image" src="https://github.com/user-attachments/assets/3cb72ff4-a53d-4397-bfc4-af472ea405f4" />
  
