@@ -5,6 +5,7 @@
 <img width="2222" height="1196" alt="image" src="https://github.com/user-attachments/assets/109239b6-0914-4e5f-902b-0033c47fd785" />
 <img width="1386" height="778" alt="image" src="https://github.com/user-attachments/assets/a2df6bdc-f1b8-4538-ba29-827c19dffc65" />
 <img width="1328" height="646" alt="image" src="https://github.com/user-attachments/assets/b5d7f24f-f4ed-4274-83fc-4d67018d93b8" />
+<img width="1316" height="724" alt="image" src="https://github.com/user-attachments/assets/7ecefb1d-272b-4bf4-84d4-0adaab37ae3f" />
 
 
  ## 交互过程
