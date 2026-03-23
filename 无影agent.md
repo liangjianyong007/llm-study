@@ -8,3 +8,4 @@
 如果你更关注“让大模型控制浏览器并尽量使用真实用户环境”，那么基于 CDP（Chrome DevTools Protocol） 的方案也很常见；例如一些开源 Agent 网关/浏览器控制服务会直接通过 CDP 连接 Chrome/Chromium，实现点击、填写、读取页面内容和截图等底层操作，这类方案在稳定性和保留登录态方面更有优势
 # 整体结构
   <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/0ec6f29a-3c15-4f12-b2e9-5040de299e77" />
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/410b2974-ee6a-457e-b45b-77874c7c5496" />
