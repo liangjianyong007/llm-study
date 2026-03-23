@@ -37,6 +37,7 @@ harness-engineering ： https://openai.com/zh-Hans-CN/index/harness-engineering/
 <img width="1166" height="962" alt="image" src="https://github.com/user-attachments/assets/f403cff2-b44b-4e84-9c92-f9e21dc49b83" />
 <img width="1178" height="544" alt="image" src="https://github.com/user-attachments/assets/c730e537-e2fc-45cb-a492-db7c6309dc0d" />
 <img width="1268" height="850" alt="image" src="https://github.com/user-attachments/assets/ebe2cd07-665a-4a9a-89b0-2bf3e7c16f9c" />
+<img width="1150" height="524" alt="image" src="https://github.com/user-attachments/assets/ed9aec6e-86ba-4585-9fdc-6c436a6e353c" />
 ![Uploading image.png…]()
 
 
